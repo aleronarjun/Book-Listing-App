@@ -18,4 +18,4 @@ When the user clicks on a specific book, the Google Books Store link is opened i
 
 # Test devices:
   1. Nexus 5X (Android 8.0) - Emulator
-  2. Samsung Galaxy S7 Edge - Physical Device.
+  2. Samsung Galaxy S7 Edge (Android 7.0) - Physical Device.
